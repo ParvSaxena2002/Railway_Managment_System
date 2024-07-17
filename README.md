@@ -1,5 +1,4 @@
 # Railway_Managment_System
-# Railway-Reservation-Sytem
 **A Railway Reservation System which is purely in java.**
 
 A JAVA application which uses JAVA API JDBC for the database purposes. The railway reservation
